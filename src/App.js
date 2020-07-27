@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Layout>
-        <Breanches />
+        <Breanches/>
       </Layout>
     </div>
   );
